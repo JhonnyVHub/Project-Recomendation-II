@@ -1,0 +1,95 @@
+/* *{
+    border: solid black;
+} */
+body{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+}
+a{
+    text-decoration: none;
+    color: black;
+}a:hover{
+    font-size: 100.1%;
+}
+
+/* Classes Abaixo */
+
+.homepage{
+    width: 45%;
+    text-align: justify;
+    margin: auto;
+}
+.taipage{
+    width: 45%;
+    text-align: justify;
+    margin: auto;
+}
+.mdipage{
+    width: 45%;
+    text-align: justify;
+    margin: auto;
+}
+.info{
+    font-size: large;
+    text-align: left;
+    margin-left: 42%;
+    margin-top: -31%;
+    margin-bottom: 15%;
+}
+.sin{
+    width: 85%;
+    margin-bottom: 13%;
+    margin-left: 7%;
+}
+.imgrec{
+    width: 25%;
+    margin-left: 7%;
+    border: solid black;
+}
+
+/* Id's Abaixo */
+
+#full{
+    border: solid black;
+    background-color: aliceblue;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+}
+#omniimg{
+    margin-bottom: 3%;
+}
+#home{
+    text-align: center;
+    width: 90%;
+}
+#links{
+    margin-bottom: 12%;
+    text-align: center;
+    width: 90%;
+}
+#coment{
+    text-align: center;
+}
+#pub{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+#imghome{
+    width: 65%;
+    margin-top: -2%;
+    margin-bottom: 2%;
+    margin-left: 0;
+    border: none;
+}
+#imgperfil{
+    width: 30%; 
+    margin-left: 0;
+    border: none;
+}#pubtxt{
+    margin-top: -23%;
+    margin-left: 34%;
+}
+#sinultm{
+    margin-bottom: 0;
+}
